@@ -1,0 +1,14 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+    }
+}
+rootProject.name = "NavigationInAndroid"
+include ':enro-fragments-sample'
+include ':enro-fragment-multi-stack-sample'
+include ':navigation-components-multi-stack-sample'
+include ':simple-stack-fragments-sample'
+include ':simple-stack-multi-stack-sample'

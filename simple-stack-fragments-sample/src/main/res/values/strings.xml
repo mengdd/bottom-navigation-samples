@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple-stack Fragments Sample</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
