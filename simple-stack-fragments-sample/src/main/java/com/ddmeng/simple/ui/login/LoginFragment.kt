@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
+import com.ddmeng.simple.databinding.FragmentLoginBinding
 import com.ddmeng.simple.ui.home.SecondScreen
 import com.zhuinden.simplestackextensions.fragments.DefaultFragmentKey
 import com.zhuinden.simplestackextensions.fragments.KeyedFragment
